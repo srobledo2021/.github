@@ -1,6 +1,6 @@
 # 🏎️ URJC-DeepRacer 
-
 <p align="center">
+  <img src="https://img.shields.io/badge/Autonomous_Driving-000000?style=for-the-badge&logo=autonomous-driving&logoColor=white" />
   <img src="https://img.shields.io/badge/Sim2Real-Bridge-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Simulator-CARLA-00ADEE?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Imitation_Learning-FFD700?style=for-the-badge&logo=brain&logoColor=black" />
