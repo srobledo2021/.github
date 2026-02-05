@@ -12,12 +12,13 @@
 
 ## 🌐 Overview
 
-**URJC-deepracer** is an advanced **sim2real** platform designed to bridge the gap between virtual training environments and physical autonomous driving deployment. 
+**URJC-deepracer** is an advanced **sim2real** platform designed to bridge the gap between virtual training environments and physical autonomous driving deployment. This project is developed by the [RoboticsLab](https://roboticslaburjc.github.io/l) of [Universidad Rey Juan Carlos](http://www.urjc.es) (Madrid).
+
+By leveraging CARLA’s realistic environmental rendering and a modified-custom AWS DeepRacer’s , the platform allows researchers to refine complex driving behaviors in simulation before transferring them to a physical vehicle, ensuring higher reliability and performance in real-world scenarios.
 
 > [!IMPORTANT]
-> Built upon the high-fidelity physics of the **CARLA simulator** and based on **AWS DeepRacer**, this ecosystem provides a seamless pipeline for developing and testing imitation and reinforcement learning models. 
+> Built upon the high-fidelity physics of the **CARLA simulator** and based on **AWS DeepRacer**, this ecosystem provides a **full open source** pipeline for developing and testing imitation and reinforcement learning models. 
 
-By leveraging CARLA’s realistic environmental rendering and AWS DeepRacer’s competitive racing logic, the platform allows researchers to refine complex driving behaviors in simulation before transferring them to a physical vehicle, ensuring higher reliability and performance in real-world scenarios.
 
 ---
 
